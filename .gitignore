@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training artifacts
+training.log
+*.log
+results/
+checkpoints/
+*.pth
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+data/
+*.csv
+*.json
+*.pkl
